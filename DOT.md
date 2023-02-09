@@ -26,7 +26,12 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. Création de mon dépôt sur Github.
--
+- Jeudi 9 février 2023 : Deux Sujets avec du potentiel à développer : 1.Les caisses à savon : 
+                                                                      - Meilleur parcours possible pour arriver le plus vite possible ?
+                                                                      - est-ce qu’une botte de foin est suffisante pour amortir le choc ?
+                                                                      2.le jeux Quixx : des probabilités ?
+                                                                   
+- 
 -
 -
 -
