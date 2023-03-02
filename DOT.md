@@ -31,8 +31,11 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
                                                                       - est-ce qu’une botte de foin est suffisante pour amortir le choc ?
                                                                       2.le jeux Quixx : des probabilités ?
                                                                    
-- 
--
+- Jeudi 2 mars 2023 : 1.Le jeux de Go
+                        https://lasocietedujeu.wordpress.com/iv-les-jeux-de-societe-sont-bases-sur-les-mathematiques-tout-comme-les-societes/
+                      2.Le stratego
+                      3.Le Awalé - Awélé - Kalaha
+                      4.6 qui prend
 -
 -
 -
