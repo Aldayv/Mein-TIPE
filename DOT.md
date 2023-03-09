@@ -36,7 +36,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
                       2.Le stratego
                       3.Le Awalé - Awélé - Kalaha
                       4.6 qui prend
--
+- Jeudi 9 mars 2023 : Le jeux de go non trop compliqué.
 -
 -
 -
