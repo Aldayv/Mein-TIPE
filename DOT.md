@@ -41,7 +41,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
   À cet instant précis meilleur coup qui bloquerais le moins la suite de la partie, ou, Bloque le moins possible qui bloquerais le moins la suite de la partie.
   Simplifie le jeux : Seul face à la grille, obligation de prendre un chiffre ou nombre, 4 passes tours possible mais perds points, + de case sur une rangée = + de     points. 
   Caisse à savon : Meilleur parcours possible pour arriver le plus vite possible ?
--
+- Jeudi 16 mars : sujet : jeux Quixx idée comparaison tactiques
 -
 -
 -
