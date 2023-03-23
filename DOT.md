@@ -42,7 +42,10 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
   Simplifie le jeux : Seul face à la grille, obligation de prendre un chiffre ou nombre, 4 passes tours possible mais perds points, + de case sur une rangée = + de     points. 
   Caisse à savon : Meilleur parcours possible pour arriver le plus vite possible ?
 - Jeudi 16 mars : sujet : jeux Quixx idée comparaison tactiques
--
+- Jeudi 23 mars : recherches : https://www.techno-science.net/definition/6426.html
+                               https://www.lamsade.dauphine.fr/~cazenave/papers/thesebernard.pdf
+                               http://dhenriet.perso.centrale-marseille.fr/micro/Chapitre1/Chapitre1.htm
+                               https://www.ceremade.dauphine.fr/~stoehr/M1_Monte_Carlo/Cours_Monte_Carlo.pdf
 -
 -
 -
