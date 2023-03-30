@@ -45,7 +45,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 23 mars : recherches : https://www.lamsade.dauphine.fr/~cazenave/papers/thesebernard.pdf
                                http://dhenriet.perso.centrale-marseille.fr/micro/Chapitre1/Chapitre1.htm
                                https://www.ceremade.dauphine.fr/~stoehr/M1_Monte_Carlo/Cours_Monte_Carlo.pdf
--
+- Jeudi 30 mars : Réflexion sur la question début recherche probabilité.
 -
 -
 
