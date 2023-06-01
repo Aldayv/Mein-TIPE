@@ -46,6 +46,6 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
                                http://dhenriet.perso.centrale-marseille.fr/micro/Chapitre1/Chapitre1.htm
                                https://www.ceremade.dauphine.fr/~stoehr/M1_Monte_Carlo/Cours_Monte_Carlo.pdf
 - Jeudi 30 mars : Réflexion sur la question début recherche probabilité.
--
+- Jeudi 1 juin : Début de programmation
 -
 
